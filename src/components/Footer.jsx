@@ -4,7 +4,7 @@ import React from 'react';
 
 function Footer() {
   return <footer>
-    &copy; Made by Joe Doe
+    &copy; Made by Nataly Mota
   </footer>;
 }
 
